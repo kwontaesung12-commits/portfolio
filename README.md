@@ -1,5 +1,3 @@
-# portfolio
-
 # 데이터 분석가 권태성 포트폴리오
 
 ## 간략 소개
@@ -34,10 +32,10 @@
     * 매출 등 4개 지표에 대한 구체적인 광고 방법 제시.
     * 기술스택: 군집화, CAC, Python
 
-## 읽어주셔서 감사합니다 :) 
-데이터 사이언티스트 김가람
+## 읽어주셔서 감사합니다 
+데이터 분석가 권태성
 <br>
-Email: rkfka1401@gmail.com
+Email: kwontaesung12@naver.com
 <br>
-GitHub: [HiMyNameIsDavidKim](https://github.com/HiMyNameIsDavidKim)
+GitHub: https://github.com/kwontaesung12-commits
 <br>
