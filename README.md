@@ -67,6 +67,14 @@
 
 ---
 
+## 📊 CCTV 이상행동 탐지와 챗봇기반 범죄 예방 플랫폼
+📄 [프로젝트 코드 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/click_rate.ipynb)  
+- **내용:**  cctv기반 이상행동 감지 시스템 및 챗봇
+- **핵심:** 데이터 크롤링, 데이터 수집, 시각화, 통계 
+- **기술스택:** `Tableau`, `Pigma`, `rag`, `videoMAE`, `onnx`
+
+---
+
 ## 💹 파생상품 자동투자 시스템
 📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/AI%20%ED%80%80%ED%8A%B8%ED%88%AC%EC%9E%90.pdf)  
 - **내용:** 금융 데이터를 분석하여 안전자산/위험자산 자동 비율 조정  
