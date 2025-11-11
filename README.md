@@ -8,7 +8,7 @@
 
 ## 목차
 * [`전력 수요량 예측`](https://github.com/kwontaesung12-commits/portfolio/blob/main/%EC%A0%84%EB%A0%A5%EC%88%98%EC%9A%94%EB%9F%89%20%EC%98%88%EC%B8%A1.pdf)
-    * 전력 소비량 시계열데이터를 머신러닝학습을 통해 전력 수요량 예측.
+    * 전력 소비량 시계열데이터를 머신러닝 학습을 통해 전력 수요량 예측.
     * Random Forest에서 최고 성능.
     * 변수 중요도: 연면적, 냉방면적, 태양광용량
     * 기술스택: Python, Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM
