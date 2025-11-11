@@ -26,7 +26,7 @@
     * Grad-cam을 활용하여 질병 위치를 표시하고 중증도 확인.
     * 
     * 기술스택: Docker, AWS, CNN, Grad-Cam
-* [`납치 감지 자동알림 모델`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/final_project)
+* [`납치 감지 자동알림 모델`](https://github.com/kwontaesung12-commits/portfolio/blob/main/%EB%82%A9%EC%B9%98%20%EA%B0%90%EC%A7%80.pdf)
     * 스마트폰의 GPS 데이터와 모션 감지를 통한 납치 감지 및 알림 애플리케이션.
     * GeoLife GPS Trajectories 데이터셋 활용.
     * LSTM AutoEncoder 학습.
