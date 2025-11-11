@@ -25,7 +25,8 @@
     * CNN을 활용하여 코로나19 분류 및 웹서비스화.
     * Grad-cam을 활용하여 질병 위치를 표시하고 중증도 확인.
     * 실제 상용 서비스 수준으로 고도화.
-    * 기술스택: Docker, AWS, CNN, Grad-Cam, FastAPI, MySQL, MongoDB
+    * 백엔드 마이크로 서비스화.
+    * 기술스택: Docker, AWS, CNN, Grad-Cam, FastAPI, MySQL, MongoDB, PyTorch, Torchvision, Pillow, Git, Github
 * [`납치 감지 자동알림 모델`](https://github.com/kwontaesung12-commits/portfolio/blob/main/%EB%82%A9%EC%B9%98%20%EA%B0%90%EC%A7%80.pdf)
     * 스마트폰의 GPS 데이터와 모션 감지를 통한 납치 감지 및 알림 애플리케이션.
     * GeoLife GPS Trajectories 데이터셋 활용.
@@ -37,8 +38,8 @@
     * 기술스택: Pyarrow, Scikit-learn Partial_fit, TensolFlow Checkpointing
 * [`파생상품 자동투자`](https://github.com/kwontaesung12-commits/portfolio/blob/main/AI%20%ED%80%80%ED%8A%B8%ED%88%AC%EC%9E%90.pdf)
     * 파생상품 자동투자 서비스.
-    * 
-    * 기술스택: 군집화, CAC, Python
+    * 금융 도메인지식을 활용하여 안전자산과 위험자산을 자동으로 구성하는 서비스 구현.
+    * 기술스택: yfinance, pandas_datareader, requests, BeautifulSoup, sqlite3
 
 ## 읽어주셔서 감사합니다 
 데이터 분석가 권태성
