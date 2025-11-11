@@ -18,7 +18,7 @@
 * [`폐렴 이미지 분류`](https://github.com/kwontaesung12-commits/portfolio/blob/main/%ED%8F%90%EB%A0%B4%20%EB%B6%84%EB%A5%98.pdf)
     * X-ray 이미지를 딥러닝으로 정상과 폐렴으로 분류.
     * 데이터 증강, 클래스 가중치 조정.
-    * 질병 분류 모델의 특성상 미탐지 오류를 최소화.
+    * 질병 분류 모델의 특성을 반영하여 미탐지 오류를 최소화.
     * 다양한 지표를 활용해 예측 정확도를 유지하면서 미탐 오류를 효과적으로 줄일 수 있도록 모델을 구현.
     * 기술스택: Python, CNN, 전이학습(VGG16, ResNet50, Efficient NetB0, Xception)
 * [`코로나19 분류 모델 웹서비스화`](https://github.com/KimJoohyung4232/final-project)
