@@ -8,9 +8,10 @@
 
 ## 목차
 * [`전력 수요량 예측`](https://github.com/kwontaesung12-commits/portfolio/blob/main/%EC%A0%84%EB%A0%A5%EC%88%98%EC%9A%94%EB%9F%89%20%EC%98%88%EC%B8%A1.pdf)
-    * 객체 인식 등에 활용하는 사전학습인 직소퍼즐 문제.
-    * 3x3 퍼즐 정확도 83.3%에서 90.6%로 개선 최고 성능.
-    * 기술스택: PyTorch, ViT, Python
+    * 전력 소비량 시계열데이터를 머신러닝학습을 통해 전력 수요량 예측.
+    * Random Forest에서 최고 성능.
+    * 변수 중요도: 연면적, 냉방면적, 태양광용량
+    * 기술스택: Python, Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM
 * [`폐렴 이미지 분류`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/lgd_project)
     * LG Display, 불량 자동검사 Feature engineering.
     * Capa 상승으로 xx억 절감, F1 score xx% 개선. (대외비 생략)
