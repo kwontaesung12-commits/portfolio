@@ -12,10 +12,12 @@
     * Random Forest에서 최고 성능.
     * 변수 중요도: 연면적, 냉방면적, 태양광용량
     * 기술스택: Python, Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM
-* [`폐렴 이미지 분류`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/lgd_project)
-    * LG Display, 불량 자동검사 Feature engineering.
-    * Capa 상승으로 xx억 절감, F1 score xx% 개선. (대외비 생략)
-    * 기술스택: Rule Extract, 통계학, C++
+* [`폐렴 이미지 분류`](https://github.com/kwontaesung12-commits/portfolio/blob/main/%ED%8F%90%EB%A0%B4%20%EB%B6%84%EB%A5%98.pdf)
+    * X-ray 이미지를 딥러닝으로 정상과 폐렴으로 분류.
+    * 데이터 증강, 클래스 가중치 조정.
+    * 질병 분류 모델의 특성상 미탐지 오류를 최소화.
+    * 다양한 지표를 활용해 예측 정확도를 유지하면서 미탐 오류를 효과적으로 줄일 수 있도록 모델을 구현.
+    * 기술스택: Python, CNN, 전이학습(VGG16, ResNet50, Efficient NetB0, Xception)
 * [`코로나19 분류 모델`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/team_project)
     * 은행 계좌 개설 사기로 인한 재산 피해를 방지.
     * 사기 중 78.4%를 검출, 모델의 실효성을 입증.
