@@ -21,23 +21,23 @@
     * 질병 분류 모델의 특성상 미탐지 오류를 최소화.
     * 다양한 지표를 활용해 예측 정확도를 유지하면서 미탐 오류를 효과적으로 줄일 수 있도록 모델을 구현.
     * 기술스택: Python, CNN, 전이학습(VGG16, ResNet50, Efficient NetB0, Xception)
-* [`코로나19 분류 모델 웹서비스화`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/team_project)
+* [`코로나19 분류 모델 웹서비스화`](https://github.com/KimJoohyung4232/final-project)
     * CNN을 활용하여 코로나19 분류 및 웹서비스화.
     * Grad-cam을 활용하여 질병 위치를 표시하고 중증도 확인.
-    * 
-    * 기술스택: Docker, AWS, CNN, Grad-Cam
+    * 실제 상용 서비스 수준으로 고도화.
+    * 기술스택: Docker, AWS, CNN, Grad-Cam, FastAPI, MySQL, MongoDB
 * [`납치 감지 자동알림 모델`](https://github.com/kwontaesung12-commits/portfolio/blob/main/%EB%82%A9%EC%B9%98%20%EA%B0%90%EC%A7%80.pdf)
     * 스마트폰의 GPS 데이터와 모션 감지를 통한 납치 감지 및 알림 애플리케이션.
     * GeoLife GPS Trajectories 데이터셋 활용.
     * LSTM AutoEncoder 학습.
     * 기술스택: Python, Pytorch, firebase, GCP, LLM활용
 * [`클릭률 예측`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/final_project)
-    * 성과지표 별로 최대의 효과로 효율적인 광고를 진행.
-    * 매출 등 4개 지표에 대한 구체적인 광고 방법 제시.
-    * 기술스택: 군집화, CAC, Python
+    * 대용량 로그 데이터 분석 클릭률 예측.
+    * 데이터 청크단위로 분할 및 점진적 학습.
+    * 기술스택: Pyarrow, Scikit-learn Partial_fit, TensolFlow Checkpointing
 * [`파생상품 자동투자`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/final_project)
-    * 성과지표 별로 최대의 효과로 효율적인 광고를 진행.
-    * 매출 등 4개 지표에 대한 구체적인 광고 방법 제시.
+    * 파생상품 자동투자 서비스.
+    * 
     * 기술스택: 군집화, CAC, Python
 
 ## 읽어주셔서 감사합니다 
