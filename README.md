@@ -35,7 +35,7 @@
     * 대용량 로그 데이터 분석 클릭률 예측.
     * 데이터 청크단위로 분할 및 점진적 학습.
     * 기술스택: Pyarrow, Scikit-learn Partial_fit, TensolFlow Checkpointing
-* [`파생상품 자동투자`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/final_project)
+* [`파생상품 자동투자`](https://github.com/kwontaesung12-commits/portfolio/blob/main/AI%20%ED%80%80%ED%8A%B8%ED%88%AC%EC%9E%90.pdf)
     * 파생상품 자동투자 서비스.
     * 
     * 기술스택: 군집화, CAC, Python
