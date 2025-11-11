@@ -31,7 +31,7 @@
     * GeoLife GPS Trajectories 데이터셋 활용.
     * LSTM AutoEncoder 학습.
     * 기술스택: Python, Pytorch, firebase, GCP, LLM활용
-* [`클릭률 예측`](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/final_project)
+* [`클릭률 예측`](https://github.com/kwontaesung12-commits/portfolio/blob/main/click_rate.ipynb)
     * 대용량 로그 데이터 분석 클릭률 예측.
     * 데이터 청크단위로 분할 및 점진적 학습.
     * 기술스택: Pyarrow, Scikit-learn Partial_fit, TensolFlow Checkpointing
