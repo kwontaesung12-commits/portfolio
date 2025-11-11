@@ -24,7 +24,7 @@
 
 ---
 
-## 전력 수요량 예측
+## 🔋 전력 수요량 예측
 📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/%EC%A0%84%EB%A0%A5%EC%88%98%EC%9A%94%EB%9F%89%20%EC%98%88%EC%B8%A1.pdf)  
 - **목표:** 시계열 데이터를 기반으로 전력 수요량을 예측  
 - **결과:** Random Forest에서 최고 성능 도출  
@@ -33,7 +33,7 @@
 
 ---
 
-## 폐렴 이미지 분류
+## 🫁 폐렴 이미지 분류
 📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/%ED%8F%90%EB%A0%B4%20%EB%B6%84%EB%A5%98.pdf)  
 - **목표:** X-ray 이미지를 딥러닝으로 정상/폐렴 분류  
 - **접근:** 데이터 증강, 클래스 가중치 조정으로 미탐 오류 최소화  
@@ -42,7 +42,7 @@
 
 ---
 
-## 코로나19 분류 웹서비스
+## 🦠 코로나19 분류 웹서비스
 📦 [GitHub Repository](https://github.com/KimJoohyung4232/final-project)  
 - **내용:** CNN을 활용한 코로나19 이미지 분류 모델을 웹서비스화  
 - **특징:** Grad-CAM으로 병변 위치 시각화, 중증도 확인  
@@ -51,7 +51,7 @@
 
 ---
 
-## 납치 감지 자동알림 모델
+## 📱 납치 감지 자동알림 모델
 📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/%EB%82%A9%EC%B9%98%20%EA%B0%90%EC%A7%80.pdf)  
 - **내용:** 스마트폰 GPS 및 모션 데이터를 기반으로 납치 상황 자동 감지  
 - **데이터:** GeoLife GPS Trajectories Dataset  
@@ -60,7 +60,7 @@
 
 ---
 
-## 클릭률 예측
+## 📊 클릭률 예측
 📄 [프로젝트 코드 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/click_rate.ipynb)  
 - **내용:** 대용량 로그 데이터를 활용한 광고 클릭률 예측  
 - **핵심:** 청크 단위 학습 및 점진적 학습으로 메모리 효율화  
@@ -76,7 +76,7 @@
 
 ---
 
-## 파생상품 자동투자 시스템
+## 💹 파생상품 자동투자 시스템
 📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/AI%20%ED%80%80%ED%8A%B8%ED%88%AC%EC%9E%90.pdf)  
 - **내용:** 금융 데이터를 분석하여 안전자산/위험자산 자동 비율 조정  
 - **특징:** 금융공학적 자본배분 기법을 파이썬으로 구현  
