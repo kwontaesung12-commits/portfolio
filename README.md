@@ -186,6 +186,7 @@ ADsP
 AWS foundation
 영어 중상
 수학 
+통계학
 
 ---
 
