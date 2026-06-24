@@ -181,6 +181,11 @@ IIT IT 학사
 
 ---
 
+자격증
+ADsP
+AWS foundation
+영어 중상
+수학 
 
 ---
 
