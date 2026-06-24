@@ -83,6 +83,14 @@ openCV
 pil
 pymupdf
 
+gpu 최적화
+onnx 변환 nvidia tensorRT 가속
+fp32 -> fp16 -> fp8 양자화
+
+전문가 위해
+죠지아텍 컴공 석사 계획
+IIT IT 학사
+
 
 ---
 
