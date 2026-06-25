@@ -179,7 +179,10 @@ IIT IT 학사
 
 ## 🧠 CCTV 이상행동 탐지와 챗봇기반 범죄 예방 플랫폼
 📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/cctv%EA%B8%B0%EB%B0%98%20%EC%9D%B4%EC%83%81%ED%96%89%EB%8F%99%20%EA%B0%90%EC%A7%80.pdf)  
-- **내용:** CCTV 기반 이상행동 감지 시스템 및 챗봇 플랫폼  
+- **내용:** CCTV 기반 이상행동 감지 시스템 및 챗봇 플랫폼
+- 목표
+- 역할
+- 배운점
 - **핵심:** 데이터 크롤링, 수집, 시각화, 통계 분석  
 - **기술스택:** `Tableau`, `Pigma`, `RAG`, `VideoMAE`, `ONNX`
 
