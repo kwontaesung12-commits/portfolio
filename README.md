@@ -170,7 +170,7 @@ IIT IT 학사
 - **구현:** 기업 연계 프로젝트로 상용 서비스 수준으로 고도화 및 배포  
 - **기술스택:** `Docker`, `AWS`, `CNN`, `Grad-CAM`, `FastAPI`, `MySQL`, `MongoDB`, `PyTorch`, `Git`, `GitHub`
 - 역할 : fastAPI를 활용한 백엔드 구성, aws 서빙, 데이터 수집 및 전처리, 전체 아키텍쳐 설계 및 문서작업
-- 배운점 : 실무자 멘토링을 통해 논문 활용법, 아키텍쳐 설계법, 실무 팁 등을 배우고 프로젝트 시 팀원간 역할분배, 소통 및 양보의 중요성을 배웠습니다
+- 배운점 : 실무자 멘토링을 통해 논문 활용법, 아키텍쳐 설계법, 실무 팁 등을 배우고 프로젝트 시 팀원간 역할분배, 소통 및 양보의 중요성을 배웠습니다, git과 github 사용, db 관리
 
 ---
 
@@ -210,16 +210,18 @@ IIT IT 학사
 ---
 
 ## Skill
-- Python: 중
-- Tensorflow: 하
-- Pytorch: 중
-- FastAPI: 중
-- HTML, CSS, JAVASCRIPT: 하
-- Pandas: 중
-- Numpy: 중
-- Polas: 하
-- C/C++: 하
-- 
+- 언어: Python(중), C/C++(하)
+- 머신러닝
+- 딥러닝: Tensorflow, Pytorch
+- 프론트엔드: html/css/javascript(하)
+- 백엔드: FastAPI, mysql
+- 데이터: Pandas, Numpy, Polas
+- 이미지 처리: OpenCV, PIL, pyMUpdf
+- 시각화: matplotlib, seaborn
+- 학습 데이터 레이블링: Label-studio, PPOCRLabel
+- Docker
+- 운영체제: ubuntu linux, rocky linux
+- git, github
 
 ---
 
