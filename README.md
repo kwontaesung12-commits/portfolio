@@ -209,18 +209,33 @@ IIT IT 학사
 
 ---
 
+## Skill
+- Python: 중
+- Tensorflow: 하
+- Pytorch: 중
+- FastAPI: 중
+- HTML, CSS, JAVASCRIPT: 하
+- Pandas: 중
+- Numpy: 중
+- Polas: 하
+- C/C++: 하
+- 
+
+---
+
 ## 자격증
-ADsP
-AWS cloud foundation
-영어 중상
-수학 중
-통계학 중
+- ADsP
+- AWS cloud foundation
+- 영어: 중상
+- 수학: 중
+- 통계학: 중
 
 ---
 
 ## Contact
-📧 Email: [kwontaesung12@naver.com](mailto:kwontaesung12@naver.com)  
-💻 GitHub: [github.com/kwontaesung12-commits](https://github.com/kwontaesung12-commits)
+Phone: 010-9109-4082
+Email: [kwontaesung12@naver.com](mailto:kwontaesung12@naver.com)  
+GitHub: [github.com/kwontaesung12-commits](https://github.com/kwontaesung12-commits)
 
 ---
  *지속적으로 프로젝트를 업데이트하고 있습니다.*
