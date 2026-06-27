@@ -211,11 +211,10 @@ IIT IT 학사
 
 ## Skill
 - 언어: Python(중), C/C++(하)
-- 머신러닝
 - 딥러닝: Tensorflow, Pytorch
 - 프론트엔드: html/css/javascript(하)
 - 백엔드: FastAPI, mysql
-- 데이터: Pandas, Numpy, Polas
+- 데이터: Pandas, Numpy, Polas, 머신러닝
 - 이미지 처리: OpenCV, PIL, pyMUpdf
 - 시각화: matplotlib, seaborn
 - 학습 데이터 레이블링: Label-studio, PPOCRLabel
