@@ -143,7 +143,7 @@ IIT IT 학사
 
 ---
 
-## 목차
+## 미니 프로젝트 및 기업연계 프로젝트 list
 - [전력 수요량 예측](#전력-수요량-예측)
 - [폐렴 이미지 분류](#폐렴-이미지-분류)
 - [코로나19 분류 웹서비스](#코로나19-분류-웹서비스)
@@ -157,7 +157,6 @@ IIT IT 학사
 ---
 
 ## 🫁 폐렴 이미지 분류
-📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/%ED%8F%90%EB%A0%B4%20%EB%B6%84%EB%A5%98.pdf)  
 - **목표:** X-ray 이미지를 딥러닝으로 정상/폐렴 분류  
 - **접근:** 데이터 증강, 클래스 가중치 조정으로 미탐 오류 최소화  
 - **성과:** 높은 정확도와 안정적 예측 성능 확보  
@@ -165,40 +164,42 @@ IIT IT 학사
 
 ---
 
-## 🦠 코로나19 분류 웹서비스
+## 의료 영상 분석을 통한 폐질환 분류 서비스
 📦 [GitHub Repository](https://github.com/KimJoohyung4232/final-project)  
-- **내용:** CNN을 활용한 코로나19 이미지 분류 모델을 웹서비스화  
-- **특징:** Grad-CAM으로 병변 위치 시각화, 중증도 확인  
-- **구현:** Docker 기반 MSA 구조로 실제 서비스 수준의 백엔드 구성  
-- **기술스택:** `Docker`, `AWS`, `CNN`, `Grad-CAM`, `FastAPI`, `MySQL`, `MongoDB`, `PyTorch`, `Torchvision`, `Pillow`, `Git`, `GitHub`
+- **내용:** CNN을 활용한 의료 영상 분류 및 병변부위 시각화 서비스  
+- **특징:** Grad-CAM으로 병변 위치 시각화, 질환 중증도 분류  
+- **구현:** 기업 연계 프로젝트로 상용 서비스 수준으로 고도화 및 배포  
+- **기술스택:** `Docker`, `AWS`, `CNN`, `Grad-CAM`, `FastAPI`, `MySQL`, `MongoDB`, `PyTorch`, `Git`, `GitHub`
+- 역할 : fastAPI를 활용한 백엔드 구성, aws 서빙, 데이터 수집 및 전처리, 전체 아키텍쳐 설계 및 문서작업
+- 배운점 : 실무자 멘토링을 통해 논문 활용법, 아키텍쳐 설계법, 실무 팁 등을 배우고 프로젝트 시 팀원간 역할분배, 소통 및 양보의 중요성을 배웠습니다
 
 ---
 
-## 📱 납치 감지 자동알림 모델
-📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/%EB%82%A9%EC%B9%98%20%EA%B0%90%EC%A7%80.pdf)  
-- **내용:** 스마트폰 GPS 및 모션 데이터를 기반으로 납치 상황 자동 감지  
+## 납치 감지 자동알림 모바일 서비스
+- **내용:** 스마트폰 GPS 및 모션 데이터를 기반으로 납치 상황 자동 감지 
 - **데이터:** GeoLife GPS Trajectories Dataset  
 - **모델:** LSTM AutoEncoder 기반 이상탐지  
 - **기술스택:** `Python`, `PyTorch`, `Firebase`, `GCP`, `LLM`
+- 역할 : 백엔드 구성, 
+- 배운점
 
 ---
 
 ## 🧠 CCTV 이상행동 탐지와 챗봇기반 범죄 예방 플랫폼
 📄 [프로젝트 PDF 보기](https://github.com/kwontaesung12-commits/portfolio/blob/main/cctv%EA%B8%B0%EB%B0%98%20%EC%9D%B4%EC%83%81%ED%96%89%EB%8F%99%20%EA%B0%90%EC%A7%80.pdf)  
 - **내용:** CCTV 기반 이상행동 감지 시스템 및 챗봇 플랫폼
-- 목표
-- 역할
-- 배운점
-- **핵심:** 데이터 크롤링, 수집, 시각화, 통계 분석  
-- **기술스택:** `Tableau`, `Pigma`, `RAG`, `VideoMAE`, `ONNX`
+- 목표 : 
+- 역할 : 데이터 수집 및 전처리, 파인 튜닝된 모델 onnx 변환 및 서빙, 시각화 및 통계분석
+- 배운점 : 데이터 수집을 위해선 파이썬 판다스뿐만 아니라 엑셀도 필요하다는것을 알게 되었음
+- **기술스택:** `RAG`, `VideoMAE`, `ONNX`
 
 ---
 
 ## 제조 설비 이상 탐지
-- anomaly detection
-- 엣지 디바이스, 머신러닝, 딥러닝 3단계 검출
-- 전체 아키텍쳐 설계 및 리눅스, 머신러닝 데이터 분석 담당
-- 
+- 내용 : 엣지 디바이스에서 제조설비 데이터를 수집해 이상 탐지 및 대시보드 구성
+- 역할 : 전체 아키텍쳐 설계, 머신러닝 anomaly detection을 통한 1차 이상 탐지, 리눅스 및 네트워크 담당
+- 배운점 : 리눅스 및 네트워크 통신 숙지
+- 기술 : anomaly detection, 앙상블 학습, 라즈비안 linux, Grapana 대시보드
 
 ---
 
