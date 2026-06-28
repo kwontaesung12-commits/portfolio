@@ -208,7 +208,7 @@ IIT IT 학사
 ## Skill
 - 언어: Python(중), C/C++(하)
 - 딥러닝: Tensorflow, Pytorch
-- 프론트엔드: html/css/javascript(하)
+- 프론트엔드: html/css/javascript(기본 구조 이해 및 수정 가능)
 - 백엔드: FastAPI, mysql
 - 데이터: Pandas, Numpy, Polas, 머신러닝
 - 이미지 처리: OpenCV, PIL, pyMUpdf
@@ -220,12 +220,14 @@ IIT IT 학사
 
 ---
 
-## 자격증
-- ADsP
-- AWS cloud foundation
-- 영어: 중상
-- 수학: 중
-- 통계학: 중
+## 자격증 및 기초 역량
+- 자격증
+  - ADsP
+  - AWS cloud foundation
+- 기초 역량 수준
+  - 영어: 중상(비즈니스 및 기술 문서 독해 가능 수준)
+  - 수학: 중(딥러닝 및 머신러닝 알고리즘 이해 가능 수준)
+  - 통계학: 중(데이터 분석 및 통계 이해 가능 수준)
 
 ---
 
