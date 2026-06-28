@@ -218,9 +218,9 @@ IIT IT 학사
 - 이미지 처리: OpenCV, PIL, pyMUpdf
 - 시각화: matplotlib, seaborn
 - 학습 데이터 레이블링: Label-studio, PPOCRLabel
-- Docker
+- 배포: docker
 - 운영체제: ubuntu linux, rocky linux
-- git, github
+- 협업: git, github
 
 ---
 
