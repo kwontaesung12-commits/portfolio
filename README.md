@@ -1,7 +1,7 @@
-#   포트폴리오
+#   portfolio
 
-## 자기소개서
-안녕하세요. 
+## Brief Personal Statement
+안녕하세요.
 
 상위 1%의 ai engineer를 꿈꾸는 권태성입니다.   
 
