@@ -4,23 +4,28 @@
 안녕하세요. 
 
 상위 1%의 ai engineer를 꿈꾸는 권태성입니다.   
-조직과 함께 성장하여 제가 다니는 회사를 업계 최고의 회사로 만들고 싶습니다.
 
 25년도에 인공지능사관학교 6기 데이터분석 부트캠프 1300시간의 6개월 과정을 수료를 통해  
-sql, 통계학, 머신러닝과 딥러닝, 데이터 분석 및 전처리를 배웠습니다
+sql, 통계학, 머신러닝과 딥러닝, 데이터 분석 및 전처리를 배웠습니다.
 해커톤과 미니프로젝트, 기업연계프로젝트 등을 7번 이상 수행하였습니다
 
-추가적으로 리눅스, 운영체제, 컴퓨터 과학, 네트워크, c언어, 영어, 수학 등을  
+추가적으로 리눅스, 운영체제, 컴퓨터 과학, 네트워크, c언어, gpu 최적화, 영어, 수학 등을  
 지속적으로 공부하고 있습니다.
 
-gpu 최적화
-모델 양자화 fp32 -> fp16 -> fp8
-tensorRT 가속
-onnx 변환
+현재 국내 document ai 회사에서 ai engineer로 일하고 있습니다.
+
+---
+## 실무 프로젝트
+
+[OCR engine fine-tuning]
+
+[RAG + local llm으로 메뉴얼 챗봇 시스템 구축]
+
+[VLM fine tuning]
 
 ---
 
-## 프로젝트 경험
+## 미니 프로젝트
 
 [폐렴 이미지 분류]
 - **목표:** X-ray 이미지 딥러닝 기반 정상/폐렴 이진 분류  
@@ -59,10 +64,9 @@ onnx 변환
 ---
 
 ## 제조설비 이상 탐지
-- 내용 : 엣지 디바이스에서 제조설비 데이터를 수집하여 설비 이상탐지 및 대시보드 구성
-- 역할 : 전체 아키텍쳐 설계, 머신러닝 anomaly detection을 통한 1차 이상 탐지, 리눅스 및 네트워크 담당
-- 배운점 : 리눅스 및 네트워크 통신 숙지, 이상 탐지 기술에 대한 이해, 제조 데이터 구매 사이트 확인
-- 기술 : anomaly detection, 앙상블 학습, 라즈비안 linux, Grapana 대시보드
+- 내용 : 제조설비 데이터를 수집하여 설비 이상탐지 및 대시보드 구성
+- 배운점 : 이상 탐지 기술에 대한 이해, 제조 데이터 구매 사이트 확인
+- 기술 : anomaly detection machine learning, Grapana dash board
 
 ---
 
@@ -74,17 +78,17 @@ onnx 변환
 ---
 
 ## Skill
-- 언어: Python(중), C/C++(하)
-- 딥러닝: Tensorflow, Pytorch
-- 프론트엔드: html/css/javascript(기본 구조 이해 및 수정 가능)
-- 백엔드: FastAPI, mysql
-- 데이터: Pandas, Numpy, Polas, 머신러닝
+- 언어: Python, C/C++
+- 딥러닝: Pytorch
+- 프론트엔드: html/css/javascript
+- 백엔드 & DB: FastAPI, mysql, chromaDB
+- 데이터: Pandas, Numpy
 - 이미지 처리: OpenCV, PIL, pyMUpdf
 - 시각화: matplotlib, seaborn
-- 학습 데이터 레이블링: Label-studio, PPOCRLabel
+- 학습 데이터 레이블링: Label-studio, PPOCRLabel, X-anyLabeling
 - 배포: docker
-- 운영체제: ubuntu linux, rocky linux
-- 협업: git, github
+- 운영체제: linux
+- 협업 및 형상관리: git, github
 
 ---
 
