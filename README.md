@@ -27,7 +27,7 @@
 
 [OCR engine fine-tuning]
 
-[RAG + local llm으로 메뉴얼 챗봇 시스템 구축]
+[RAG + local llm으로 사내 솔루션 메뉴얼 챗봇 시스템 구축]
 
 [VLM fine tuning]
 
