@@ -29,9 +29,9 @@
 
 [RAG + local llm으로 사내 솔루션 메뉴얼 챗봇 시스템 구축]
 
-[VLM fine tuning]
+[open source VLM model fine tuning]
 
-[onnx 변환 및 tensorRT 적용 모델 경량화, 가속]
+[model onnx 변환 및 tensorRT 적용 경량화, 가속]
 
 ---
 
