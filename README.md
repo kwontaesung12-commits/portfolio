@@ -37,7 +37,7 @@
 
 ## Skill
 - 언어: Python, C/C++
-- 딥러닝: Pytorch, Tensorflow, onxx, tensorRT
+- 딥러닝: Pytorch, Tensorflow, onxx, tensorRT, vLLM, RAG, bge-m3, qwen3, 
 - frontend: html/css/javascript
 - backend & DB: FastAPI, mysql, chromaDB
 - data processing: Pandas, Numpy
