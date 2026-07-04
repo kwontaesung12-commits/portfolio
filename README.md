@@ -37,7 +37,7 @@
 
 ## Skill
 - 언어: Python, C/C++
-- 딥러닝: Pytorch, Tensorflow
+- 딥러닝: Pytorch, Tensorflow, onxx, tensorRT
 - frontend: html/css/javascript
 - backend & DB: FastAPI, mysql, chromaDB
 - data processing: Pandas, Numpy
@@ -47,7 +47,6 @@
 - 배포: docker
 - OS: linux
 - 협업 및 형상관리: git, github
-- 
 ---
 
 ## 기타 토이 프로젝트
