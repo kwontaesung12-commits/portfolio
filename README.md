@@ -17,6 +17,7 @@ I'm Kwon Tae-sung, who dreams of becoming the top 1% ai engineer.
 I completed a six-month course in Data Analysis Bootcamp. And I worked on various mini projects such as hackathon, dacon, and kagle.
 
 I am currently working as an ai engineer at a document ai company.
+
 ---
 
 ## Certificates and Competencies
