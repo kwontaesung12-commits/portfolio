@@ -10,20 +10,27 @@
 
 현재 document ai 회사에서 ai engineer로 일하고 있습니다.
 
+Hello.
+
+I'm Kwon Tae-sung, who dreams of becoming the top 1% ai engineer.  
+
+I completed a six-month course in Data Analysis Bootcamp. And I worked on various mini projects such as hackathon, dacon, and kagle.
+
+I am currently working as an ai engineer at a document ai company.
 ---
 
-## 자격증 및 기초 역량
-- 자격증
+## Certificates and Competencies
+- Certificates
   - ADsP
   - AWS cloud foundation
-- 기초 역량 수준
-  - 영어: 비즈니스 및 기술 문서 독해 가능
-  - 수학: 딥러닝 및 머신러닝 알고리즘 이해 가능
-  - 통계학: 데이터 분석 및 결과 이해 가능
+- Competencies
+  - English: 비즈니스 및 기술 문서 독해 가능
+  - Math: 딥러닝 및 머신러닝 알고리즘 이해 가능
+  - Statistics: 데이터 분석 및 결과 이해 가능
 
 ---
 
-## 실무 프로젝트
+## Project
 
 [OCR engine fine-tuning]
 
@@ -35,7 +42,7 @@
 
 ---
 
-## Skill
+## Skills
 - 언어: Python, C/C++
 - 딥러닝: Pytorch, Tensorflow, onxx, tensorRT, vLLM, RAG, bge-m3, qwen3, wandb
 - frontend: html/css/javascript
@@ -53,7 +60,7 @@
 - 적용 논문
 
 ---
-## 기타 미니 프로젝트
+## Other mini project
 
 [폐렴 이미지 분류]
 - **목표:** X-ray 이미지 딥러닝 기반 정상/폐렴 이진 분류  
