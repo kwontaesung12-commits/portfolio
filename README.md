@@ -3,7 +3,7 @@
 ## Brief Personal Statement
 안녕하세요.
 
-상위 1%의 ai engineer를 꿈꾸는 권태성입니다.  
+상위 1%의 개발자를 꿈꾸는 권태성입니다.  
 
 데이터분석 부트캠프 6개월 과정을 수료했습니다.
 해커톤과 데이콘, 캐글 등 다양한 미니 프로젝트를 수행하였습니다.
@@ -12,7 +12,7 @@
 
 Hello.
 
-I'm Kwon Tae-sung, who dreams of becoming the top 1% ai engineer.  
+I'm Kwon Tae-sung, who dreams of becoming the top 1% ai developer.  
 
 I completed a six-month course in Data Analysis Bootcamp. And I worked on various mini projects such as hackathon, dacon, and kagle.
 
@@ -65,8 +65,8 @@ I am currently working as an ai engineer at a document ai company.
 
 [폐렴 이미지 분류]
 - **목표:** X-ray 이미지 딥러닝 기반 정상/폐렴 이진 분류  
-- **접근:** 데이터 증강, 클래스 가중치 조정으로 미탐 오류 최소화  
-- **성과:** 머신러닝과 딥러닝 전이학습 모델을 통한 높은 정확도와 안정적 예측 성능 확보 
+- **접근:** 데이터 증강, 클래스 가중치 조정, 미탐 오류 최소화  
+- **성과:** 딥러닝 전이학습 모델을 통한 높은 정확도와 안정적 예측 성능 확보 
 - **기술스택:** `Python`, `CNN`, `VGG16`, `ResNet50`, `EfficientNetB0`
 
 [의료 영상 분석을 통한 폐질환 분류 서비스]
@@ -81,17 +81,12 @@ I am currently working as an ai engineer at a document ai company.
 - 내용: gps, 자이로 센서로 수집한 스마트폰 사용자의 움직임으로 위협을 감지하는 모델을 구현
 - **데이터:** GeoLife GPS Trajectories Dataset  
 - **모델:** LSTM AutoEncoder 기반 이상탐지
-- **기술스택:** `Python`, `PyTorch`, `Firebase`, `GCP`
+- **기술:** `Python`, `PyTorch`, `Firebase`, `GCP`
 
 [CCTV 이상행동 탐지와 챗봇기반 범죄 예방 플랫폼]
 - **내용:** CCTV 기반 이상행동 감지 시스템 및 챗봇 플랫폼
 - 배운점 : 각종 공개 데이터셋 제공처를 알게 됨, 데이터 수집을 위해선 판다스뿐만 아니라 엑셀도 필요하다는 것을 알게 되었음
 - **기술스택:** `VideoMAE`, `ONNX`
-
-[제조설비 이상 탐지]
-- 내용 : 제조설비 데이터를 수집하여 설비 이상탐지 및 대시보드 구성
-- 배운점 : 시계열 데이터에 대한 이해, 이상 탐지 기술에 대한 이해, 다양한 데이터 수집 루트 습득 
-- 기술 : anomaly detection machine learning, Grapana dash board
 
 [클릭률 예측]
 - 내용 : 실제 금융 대용량 데이터를 분석하여 클릭률 예측
