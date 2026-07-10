@@ -12,7 +12,7 @@
 
 Hello.
 
-I'm Kwon Tae-sung, who dreams of becoming the top 1% ai developer.  
+I'm Kwon Tae-sung, who dreams of becoming the top 1% ai researcher.  
 
 I completed a six-month course in Data Analysis Bootcamp. And I worked on various mini projects such as hackathon, dacon, and kagle.
 
@@ -55,6 +55,7 @@ I am currently working as an ai engineer at a document ai company.
 - 배포: docker
 - OS: linux
 - 협업 및 형상관리: git, github
+- 기타: RegEx
 ---
 ## 프로젝트
 [안구 이미지 분석을 통한 뇌질환 예측]
