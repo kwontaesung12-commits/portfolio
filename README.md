@@ -45,14 +45,14 @@ I am currently working as an ai engineer at a document ai company.
 
 ## Skills
 - 언어: Python, C/C++
-- 딥러닝: Pytorch, onxx, tensorRT, vLLM, RAG
+- ML/DL: Pytorch, onxx, tensorRT, vLLM, RAG, wandb
 - web: html/css, FastAPI, postgreSQL
 - data processing: Pandas, Numpy, matplotlib
 - image: OpenCV
 - data annotation: Label-studio, PPOCRLabel, X-anyLabeling
 - 배포: docker
 - OS: linux
-- 협업 및 형상관리: git, github
+- 협업 및 형상관리: git, github, 
 - 기타: RegEx
   
 ---
